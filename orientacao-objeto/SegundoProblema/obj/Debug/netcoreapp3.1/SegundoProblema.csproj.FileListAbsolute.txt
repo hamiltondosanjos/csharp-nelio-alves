@@ -1,0 +1,13 @@
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\SegundoProblema\bin\Debug\netcoreapp3.1\SegundoProblema.exe
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\SegundoProblema\bin\Debug\netcoreapp3.1\SegundoProblema.deps.json
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\SegundoProblema\bin\Debug\netcoreapp3.1\SegundoProblema.runtimeconfig.json
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\SegundoProblema\bin\Debug\netcoreapp3.1\SegundoProblema.runtimeconfig.dev.json
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\SegundoProblema\bin\Debug\netcoreapp3.1\SegundoProblema.dll
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\SegundoProblema\bin\Debug\netcoreapp3.1\SegundoProblema.pdb
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\SegundoProblema\obj\Debug\netcoreapp3.1\SegundoProblema.csprojAssemblyReference.cache
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\SegundoProblema\obj\Debug\netcoreapp3.1\SegundoProblema.AssemblyInfoInputs.cache
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\SegundoProblema\obj\Debug\netcoreapp3.1\SegundoProblema.AssemblyInfo.cs
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\SegundoProblema\obj\Debug\netcoreapp3.1\SegundoProblema.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\SegundoProblema\obj\Debug\netcoreapp3.1\SegundoProblema.dll
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\SegundoProblema\obj\Debug\netcoreapp3.1\SegundoProblema.pdb
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\SegundoProblema\obj\Debug\netcoreapp3.1\SegundoProblema.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.exe
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.deps.json
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.json
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.dev.json
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.dll
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csprojAssemblyReference.cache
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfoInputs.cache
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfo.cs
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.dll
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.genruntimeconfig.cache

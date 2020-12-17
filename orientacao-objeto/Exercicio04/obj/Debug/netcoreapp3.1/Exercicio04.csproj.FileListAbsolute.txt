@@ -1,0 +1,13 @@
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.csprojAssemblyReference.cache
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.AssemblyInfoInputs.cache
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.AssemblyInfo.cs
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\Exercicio04\bin\Debug\netcoreapp3.1\Exercicio04.exe
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\Exercicio04\bin\Debug\netcoreapp3.1\Exercicio04.deps.json
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\Exercicio04\bin\Debug\netcoreapp3.1\Exercicio04.runtimeconfig.json
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\Exercicio04\bin\Debug\netcoreapp3.1\Exercicio04.runtimeconfig.dev.json
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\Exercicio04\bin\Debug\netcoreapp3.1\Exercicio04.dll
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\Exercicio04\bin\Debug\netcoreapp3.1\Exercicio04.pdb
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.dll
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.pdb
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\orientacao-objeto\Exercicio04\obj\Debug\netcoreapp3.1\Exercicio04.genruntimeconfig.cache

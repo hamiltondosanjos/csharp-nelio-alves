@@ -1,0 +1,13 @@
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Funcoes01\bin\Debug\netcoreapp3.1\Funcoes01.exe
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Funcoes01\bin\Debug\netcoreapp3.1\Funcoes01.deps.json
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Funcoes01\bin\Debug\netcoreapp3.1\Funcoes01.runtimeconfig.json
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Funcoes01\bin\Debug\netcoreapp3.1\Funcoes01.runtimeconfig.dev.json
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Funcoes01\bin\Debug\netcoreapp3.1\Funcoes01.dll
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Funcoes01\bin\Debug\netcoreapp3.1\Funcoes01.pdb
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Funcoes01\obj\Debug\netcoreapp3.1\Funcoes01.csprojAssemblyReference.cache
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Funcoes01\obj\Debug\netcoreapp3.1\Funcoes01.AssemblyInfoInputs.cache
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Funcoes01\obj\Debug\netcoreapp3.1\Funcoes01.AssemblyInfo.cs
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Funcoes01\obj\Debug\netcoreapp3.1\Funcoes01.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Funcoes01\obj\Debug\netcoreapp3.1\Funcoes01.dll
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Funcoes01\obj\Debug\netcoreapp3.1\Funcoes01.pdb
+C:\Users\Pichau\estudos\Csharp-curso-completo-oo\Funcoes01\obj\Debug\netcoreapp3.1\Funcoes01.genruntimeconfig.cache
